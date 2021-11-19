@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+p {
+  font-family: 'Poppins', sans-serif;
+  line-height: 14px;
+  background: url("https://scontent.fdvo2-1.fna.fbcdn.net/v/t39.30808-6/194425128_116210740740966_8080237883102030778_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHwitnp6iXJ4CcR9cZUYNFOCbR85FB6yK0JtHzkUHrIreXRavnFU2k1AzwpOaye72DplFpEmisWb1cd-925gH1T&_nc_ohc=_-_MvM2VYEwAX8l6-Ci&tn=bX2WZ17US-LQzzna&_nc_ht=scontent.fdvo2-1.fna&oh=cc803f058acc0e6bd95792d4450b1386&oe=619CBBB3");
+  -webkit-background-clip: text;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  -webkit-text-fill-color: rgba(255, 255, 255, 0);
+  background-size: 100vh;
+  background-position: center;
+}
+
+body {
+  background: black;
+  overflow: hidden;
+}
