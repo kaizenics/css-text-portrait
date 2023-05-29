@@ -4,7 +4,7 @@ Tutorial Link: https://clipchamp.com/watch/AK1gNY8SaYu
 
 ### IDE Application's Compatibility
 
-Desktop (Recommendad):
+Desktop (Recommended):
 
 * Visual Studio Code
 * Sublime Text
